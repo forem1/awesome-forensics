@@ -217,6 +217,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 
 - [DFTimewolf](https://github.com/log2timeline/dftimewolf) - Framework for orchestrating forensic collection, processing and data export using GRR and Rekall
 - :star: [plaso](https://github.com/log2timeline/plaso) - Extract timestamps from various files and aggregate them
+- [sequolog](https://github.com/forem1/sequolog) - Event sequence analysis and timeline reconstruction
 - [Timeline Explorer](https://binaryforay.blogspot.com/2017/04/introducing-timeline-explorer-v0400.html) - Timeline Analysis tool for CSV and Excel files. Built for SANS FOR508 students
 - [timeliner](https://github.com/airbus-cert/timeliner) - A rewrite of mactime, a bodyfile reader
 - [timesketch](https://github.com/google/timesketch) - Collaborative forensic timeline analysis
